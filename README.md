@@ -1,5 +1,5 @@
 # `Proposta de sistema de trava eletrica com senha` 
-- Essa proposta esta destinada a uma atividade de sala de aula do curso de tsi da disciplina de IoT.
+## Essa proposta esta destinada a uma atividade de sala de aula do curso de tsi da disciplina de IoT.
 ## `Resumo`
 - Nosso objetivo nesse projetinho é utilizar ferramentas como o arduino entre outras para implementação de uma pequena trava eletrica que poderá ser instalada em uma porta que será aberta com uma senha dos usuários cadastrados, esses usuários serão armazenados dentro de um cartão ssd. Será usado também algumas ferramentas ou componentes como o módulo relé rtc onde será possível guardamos historicos de acesso a porta. Com esse relé podemos guardar a data, hora e quem acessou ao local. Também será possível a utilização de um módulo buzzer 5v para emitir um bip ao usuário apertar uma tecla.
 ## `Material` 
